@@ -1,2 +1,4 @@
 # hola-mundo
-Nuevo repositorio
+Nuevo repositorio de prueba
+
+Autor: CarlosM Fecha: 5 de febrero
